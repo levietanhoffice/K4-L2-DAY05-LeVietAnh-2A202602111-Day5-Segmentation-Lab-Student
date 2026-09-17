@@ -1,9 +1,9 @@
 # Day-5 Segmentation — Scorecard
 
-**Total: 20.1 / 82**
+**Total: 39.4 / 82**
 
 | Task | Group | Type | Metric | Points |
 | --- | --- | --- | ---: | ---: |
-| easy_semantic | tiers | semantic | 0.760 | 16.0 / 20 |
-| medium_instance | tiers | instance | 0.457 | 4.1 / 32 |
-| hard_panoptic | tiers | panoptic | 0.087 | 0.0 / 30 |
+| easy_semantic | tiers | semantic | 0.735 | 14.9 / 20 |
+| medium_instance | tiers | instance | 0.548 | 10.5 / 32 |
+| hard_panoptic | tiers | panoptic | 0.411 | 14.0 / 30 |
